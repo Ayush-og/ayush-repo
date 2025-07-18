@@ -1,4 +1,4 @@
 # ayush-repo
 first-repo
 <br>
-Author Ayush og
+Author - Ayush (Infy)
